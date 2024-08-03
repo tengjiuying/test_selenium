@@ -1,9 +1,11 @@
+import tracemalloc
 import unittest
 
 from page import register
 from page.index import IndexPage
 
 class MyTestCase(unittest.TestCase):
+    tracemalloc.start()
     # 所有步骤初始化
     def setUp(self):
         self.index = IndexPage()
