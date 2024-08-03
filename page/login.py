@@ -9,5 +9,5 @@ class LoginPage(BasePage):
         pass
     # 进入注册页
     def goto_register_page(self):
-        self.driver.find_element(By.XPATH, '//a[@class="index_head_info_pCDownloadBtn"]').click()
-        return RegisterPage(self.driver)
+        self._driver.find_element(By.XPATH, '//a[@class="index_head_info_pCDownloadBtn"]').click()
+        return RegisterPage(self._driver)

@@ -8,14 +8,14 @@ class BasePage:
     def __init__(self, driver: WebDriver=None):
         # 对driver进行复用，若不存在driver则创建一个新的
         if driver is None:
-            self.driver = webdriver.Chrome()
+            self._driver = webdriver.Chrome()
             # 设置隐式等待时间
-            self.driver.implicitly_wait(3)
+            self._driver.implicitly_wait(3)
             # 访问网页
-            self.driver.get(self.driver.current_url)
+            self._driver.get(self._current_url)
         else:
             # login与register需要使用该方法，避免重复构造driver
-            self.driver = driver
+            self._driver = driver
     def close(self):
         sleep(20)
-        self.driver.quit()
+        self._driver.quit()
