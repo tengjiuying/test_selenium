@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db63b51-0d9d-41a2-bff1-b2cde1d7d609" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/test_selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/register.py" afterDir="false" />
+    <list default="true" id="0db63b51-0d9d-41a2-bff1-b2cde1d7d609" name="Changes" comment="2024.08.03-01">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/register.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tengjiuying"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tengjiuying/test_selenium.git",
+    "accountId": "8ac6c5d6-cf06-4aa5-a3d1-a9f397de34f6"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -75,8 +81,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722653461392</updated>
-      <workItem from="1722653465165" duration="1614000" />
+      <workItem from="1722653465165" duration="2986000" />
     </task>
+    <task id="LOCAL-00001" summary="2024.08.03-01">
+      <option name="closed" value="true" />
+      <created>1722655143703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722655143703</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2024.08.03-01" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.08.03-01" />
   </component>
 </project>
