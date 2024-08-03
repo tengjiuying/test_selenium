@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db63b51-0d9d-41a2-bff1-b2cde1d7d609" name="Changes" comment="补充完善进度30%">
-      <change afterPath="$PROJECT_DIR$/testcase/test_index.py" afterDir="false" />
+    <list default="true" id="0db63b51-0d9d-41a2-bff1-b2cde1d7d609" name="Changes" comment="调用方法测试是否可用">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722653461392</updated>
-      <workItem from="1722653465165" duration="4331000" />
+      <workItem from="1722653465165" duration="7728000" />
     </task>
     <task id="LOCAL-00001" summary="2024.08.03-01">
       <option name="closed" value="true" />
@@ -101,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722656519334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="调用方法测试是否可用">
+      <option name="closed" value="true" />
+      <created>1722657888929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722657888929</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +133,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.08.03-01" />
     <MESSAGE value="补充完善进度30%" />
-    <option name="LAST_COMMIT_MESSAGE" value="补充完善进度30%" />
+    <MESSAGE value="调用方法测试是否可用" />
+    <option name="LAST_COMMIT_MESSAGE" value="调用方法测试是否可用" />
   </component>
 </project>
