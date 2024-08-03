@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db63b51-0d9d-41a2-bff1-b2cde1d7d609" name="Changes" comment="2024.08.03-01">
+    <list default="true" id="0db63b51-0d9d-41a2-bff1-b2cde1d7d609" name="Changes" comment="补充完善进度30%">
+      <change afterPath="$PROJECT_DIR$/testcase/test_index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/register.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -37,6 +36,9 @@
     "accountId": "8ac6c5d6-cf06-4aa5-a3d1-a9f397de34f6"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/unittest/case.pyi" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -81,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722653461392</updated>
-      <workItem from="1722653465165" duration="2986000" />
+      <workItem from="1722653465165" duration="4331000" />
     </task>
     <task id="LOCAL-00001" summary="2024.08.03-01">
       <option name="closed" value="true" />
@@ -91,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722655143703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="补充完善进度30%">
+      <option name="closed" value="true" />
+      <created>1722656519334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722656519334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.08.03-01" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.08.03-01" />
+    <MESSAGE value="补充完善进度30%" />
+    <option name="LAST_COMMIT_MESSAGE" value="补充完善进度30%" />
   </component>
 </project>
